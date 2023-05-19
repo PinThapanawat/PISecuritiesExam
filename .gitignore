@@ -1,0 +1,5 @@
+/obj/
+src/WebAPI/bin/
+src/WebAPI/obj/
+.idea
+global.json
