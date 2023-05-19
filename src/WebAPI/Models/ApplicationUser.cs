@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace WebAPI.Models;
 
-public abstract class ApplicationUser: IdentityUser
+public class ApplicationUser: IdentityUser
 {
     
 }
